@@ -1,4 +1,6 @@
 # 🧠 HAMN Labs
+<img width="2752" height="1536" alt="info" src="https://github.com/user-attachments/assets/d880289e-f650-4cf4-af69-4e598dee339a" />
+
 ### Building Shared Intelligence Infrastructure for AI Agents
 
 HAMN Labs develops infrastructure that enables AI agents and decentralized applications to **reuse intelligence instead of recomputing it**.
